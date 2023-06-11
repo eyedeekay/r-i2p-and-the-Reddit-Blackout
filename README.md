@@ -4,6 +4,8 @@
 r/SaveThirdPartyApps Reddit Blackout Post somewhere we can't be spezzed out of existence.
 ```
 
+- [link to shadowbanned OP](https://old.reddit.com/r/i2p/comments/143rh54/ri2p_and_the_reddit_blackout/)
+
 Since I started moderating this sub almost 7 years ago, it has been my assumption that Reddit.com has the potential to be a few things. It could be a place where we reach out to members of other communities, where we build connections and grow the network by talking to people who aren't already part of our ingroup, learning about their ideas and sharing our own. At it's best, this is what reddit.com has to offer I2P, and why I have put so much time and energy into this community. It is not a universally beloved decision among other large-scale hidden service operators, but frustrating as it may be sometimes, communities that do not connect to other communities will wither. That is why I am here.
 
 Nonetheless, from the beginning, it has also been true that Reddit.com could become even more hostile to it's users and to our community than it was 7 years ago. As Reddit.com has become more restrictive, deceptive, and invasive, many have turned to third-party applications, such as Apollo and Redreader, to escape this hostility. Reddit.com has now proposed to take the additional hostile step of forcing those app developers to pay exorbitant prices for access to Reddit.com. This is because Reddit.com has forgotten that Reddit itself offers no value, the only value Reddit has comes from the users of Reddit. It does not come from advertising, nor does it come from the mobile app.
