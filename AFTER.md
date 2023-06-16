@@ -25,6 +25,8 @@ It is available for interaction through I2P and through the clear web, making it
 For those of you who wish to access a reddit.com-like forum where general topic discussion is allowed and where users moderate the communities, please consider **[Ramble]** for your social-news-aggregator needs.
 Ramble is preferred by the I2P community for it's direct access within the I2P network and for it's support of I2P users.
 
+ - [**`Further Info: A new vision and direction for [ramble]`**](http://ramble.i2p/f/ramble/4827/a-new-vision-and-direction-for-ramble)
+
 ### `[Ramble]` is available at the following hosts:
 
  - [ramble.i2p(*easiest*)](http://ramble.i2p/?i2paddresshelper=xyOqhmjnO6Sc-t~2aeSW31bNkYTmhfHdQ7lYV-ENZ2AtkzMm4EsuNZLBQ9pMLV5ADc7lB1~l0q6jB~qstXL~vkIyPjfLWFSma0bCawCLgQrnC4RB3cbYxCF4CrD~-6Vb2GvV4jhrEnBLixtTqXMtW00otmuuzwWS80Pus4laOy066PuPPZR9QebY18W5Ae7-Hgaz92KNjtkkFe3IjPi05vM0g3rLiXpL-69hgyEy-1plJikdGD4wtiPmHr6utB5GVXvU4pBI0g-0CW9-OXDjAZLwBK33hVIGgDudYOmxiw-mAi227AIZBS~t-uQJHsyRZ0FWs0Kmj2mGupqz2fThuUW-UNOJL3FyvgTJawZ5Y4y0-76szgc~o6s33fnTQTwD1UdGXAy1TcRsUh16wyR-3lS8Ig6foTlzTD-LO0PF7WSWZzatwk6aQdTgjNW72a33DISA7Ry6G5M9J321XHyA52SpkbyqPxSj-BjqZX-vGozShBe1Q3fgkFzUPTnax-QNBQAEAAcAAA==) (`I2P Address Helper Link`)
